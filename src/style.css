@@ -1,0 +1,18 @@
+body {
+  background-color: #e3b268;
+  text-align: center;
+}
+h1 {
+  padding: 25px;
+}
+p {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+a {
+  padding: 20px;
+  color: blueviolet;
+}
+#email {
+  padding-left: 0px;
+}
